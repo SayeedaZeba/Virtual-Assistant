@@ -46,7 +46,7 @@ class VirtualFrame(wx.Frame):
     def OnEnter(self, event):
         input = self.txt.GetValue().lower()
         try:
-            appID = "QPW4A9-8QP56EA3P5"
+            appID = "Set the API key here provided by signing into Wolfram Alpha developer community"
             client = wolframalpha.Client(appID)
             result = client.query(input)
             answer = next(result.results).text
