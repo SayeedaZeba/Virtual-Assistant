@@ -1,5 +1,5 @@
 # Virtual Assistant
-A python app which will help you answer your questions based on answers fetched from either Wolfram Alpha or Wikipedia based on the request.
+A python app which will help you answer your questions based on answers fetched from either Wolfram Alpha or Wikipedia, based on the request.
 
 This project was developed using VSCode. Below are the steps which needs to be configured to your VSCode app before running this project.
 
